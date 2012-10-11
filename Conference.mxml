@@ -7,4 +7,5 @@
 	<mx:Panel x="758" y="107" width="340" height="280" layout="absolute">
 		<mx:VideoDisplay x="0" y="0" width="320" height="240"/>
 	</mx:Panel>
+	<Karthik></Karthik>
 </mx:Application>
