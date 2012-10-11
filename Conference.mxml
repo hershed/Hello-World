@@ -8,4 +8,5 @@
 		<mx:VideoDisplay x="0" y="0" width="320" height="240"/>
 	</mx:Panel>
 	<Karthik></Karthik>
+	<Charles></Charles>
 </mx:Application>
